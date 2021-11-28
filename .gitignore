@@ -1,0 +1,16 @@
+# Document files
+*.docx
+*.xls
+
+# Generated files
+*.cfg
+*.ini
+
+# Media files
+*.mp4
+
+# Some environment folder
+Include/
+Lib/
+Scripts/
+share/
